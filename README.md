@@ -1,2 +1,3 @@
 # ContaBancaria
-Exericicios simulando uma conta bancaria utilizando a linguagem c#.
+Simulating a bank account using the C# language.
+
